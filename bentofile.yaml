@@ -1,0 +1,10 @@
+service: "service.py:svc"
+labels: 
+ owner: bentoml-team
+ project: whisky
+include:
+- "*.py"
+python:
+ packages:
+   - scikit-learn
+   - pydantic
