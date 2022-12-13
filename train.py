@@ -47,7 +47,7 @@ import xgboost as xgb
 
 ## Import datasets
 
-por = pd.read_csv("whisky.csv")
+por = pd.read_csv("./whisky.csv")
 por
 df = pd.DataFrame(por)
 
