@@ -1,6 +1,6 @@
-Capstone1---ML_Zoom_Camp
+Whisky_Prediction
 
-This project is for the Capstone 1 project of the ML_Zoom_Camp, I have decided to use a dataset about Whiskys in order to predict if the Whisky has a Tobacco essence on it according to other variables.
+I have decided to use a dataset about Whiskys in order to predict if the Whisky has a Tobacco essence on it according to other variables.
 I have tested many models, specifically: Xgboost, NaiveBayes and Decision Tree. However, I choose the Naive Bayes with a model acurracy near 85% to test something new and see how is in production.
 
 The variables are:
